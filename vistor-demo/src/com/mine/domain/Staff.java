@@ -4,7 +4,7 @@ import com.mine.visitor.Visitor;
 
 import java.util.Random;
 
-// 员工基类
+// 员工基类 - 相当于元素接口或元素抽象类(Element)
 public abstract class Staff {
 
     public String name;

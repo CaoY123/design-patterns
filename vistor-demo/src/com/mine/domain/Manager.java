@@ -4,7 +4,7 @@ import com.mine.visitor.Visitor;
 
 import java.util.Random;
 
-// 经理
+// 经理 - ConcreteElement
 public class Manager extends Staff {
 
     public Manager(String name) {

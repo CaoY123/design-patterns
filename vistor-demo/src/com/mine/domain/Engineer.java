@@ -4,7 +4,7 @@ import com.mine.visitor.Visitor;
 
 import java.util.Random;
 
-// 工程师
+// 工程师 - ConcreteElement
 public class Engineer extends Staff {
 
     public Engineer(String name) {
