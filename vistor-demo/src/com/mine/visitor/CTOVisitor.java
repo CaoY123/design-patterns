@@ -2,7 +2,7 @@ package com.mine.visitor;
 
 import com.mine.domain.Engineer;
 import com.mine.domain.Manager;
-
+// 具体的访问者 - ConcreteVisitor
 public class CTOVisitor implements Visitor {
     @Override
     public void visit(Engineer engineer) {
